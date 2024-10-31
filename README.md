@@ -1,4 +1,5 @@
-# LOOK-ID
+# LOOK-ID ![Group 37](https://github.com/user-attachments/assets/eeba4b94-9e79-4cfd-ac29-d6e424a519e8)
+
 O projeto LOOK-ID é um sistema de verificação de acesso destinado a instituições de ensino. Ele utiliza um cartão de identificação que permite ao aluno autenticar sua entrada nas salas de aula de forma prática e segura, garantindo um controle eficiente do acesso.
 
 ## Descrição do Projeto
